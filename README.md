@@ -4,7 +4,7 @@ Building a peer 2 peer video chat using WebRTC.
 To use the app follow the steps:
 1. clone this repo to your local machine.
 ```
-cd clone <Link of this repo>
+git clone <Link of this repo>
 ```
 2. open repo in command line and run the following command:
 ```
