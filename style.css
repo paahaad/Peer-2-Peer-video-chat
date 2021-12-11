@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100&family=Nunito:wght@300&family=Romanesco&display=swap');
+
+body {
+  font-family: 'Noto Sans JP', sans-serif,monospace;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #e4e9ee;
+  background: rgb(14, 17, 23);
+}
+video {
+  width: 40vw;
+  height: 30vw;
+  margin: 2rem;
+  background: #000000;
+  border: 3px solid #f3eeee;
+  box-sizing: border-box;
+}
+
+.videos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
