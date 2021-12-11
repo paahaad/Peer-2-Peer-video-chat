@@ -20,7 +20,7 @@ you will get a link of running server on terminal.
 2. Creat a offer 
 3. copy the uniqueID and send it to your Friend.
 
-## to Receive a call :
+## To Receive a call :
 
 1. start your webCam
 2. get the uniqueId from your friend and past it to answerox
